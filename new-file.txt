@@ -7,11 +7,12 @@ Rebase demo
 
 3 Update in master :: 1
 4 Update in master :: 2
+master update after merge demo
 
 1 Update in Rebase :: 1
 1 Update in Rebase
 2 Update in Rebase :: 2
 review demo
-review demo
 echo after merge demo
 update for new pull request from branch 
+test fro conlft pull request
