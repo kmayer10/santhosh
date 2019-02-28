@@ -13,3 +13,4 @@ Rebase demo
 2 Update in Rebase :: 2
 review demo
 review demo
+echo after merge demo
