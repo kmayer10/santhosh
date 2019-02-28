@@ -6,3 +6,4 @@ fixing in tag : 1
 Rebase demo
 3 Update in master :: 1
 4 Update in master :: 2
+master update after merge demo
