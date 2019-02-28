@@ -18,3 +18,4 @@ update for new pull request from branch
 rebase :: test resolve conlict from local
 test fro conlft pull request
 changes from master to resolve conflict
+secont test for ocvnflit frommaster
