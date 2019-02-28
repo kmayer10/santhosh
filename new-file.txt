@@ -13,3 +13,4 @@ master update after merge demo
 1 Update in Rebase
 2 Update in Rebase :: 2
 test fro conlft pull request
+changes from master to resolve conflict
