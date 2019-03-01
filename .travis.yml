@@ -1,1 +1,1 @@
-script:bash script.sh
+script: bash script.sh
