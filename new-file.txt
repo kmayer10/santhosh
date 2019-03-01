@@ -21,3 +21,4 @@ secont test for ocvnflit fromrebase
 changes from master to resolve conflict
 secont test for ocvnflit frommaster
 rebase-demo :: updating after stash
+rebase-demo :: stashing....
